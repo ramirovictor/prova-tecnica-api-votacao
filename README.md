@@ -1,9 +1,7 @@
-# prova-tecnica-api-votacao
+# Prova Técnica API Votação 🗳️
 
-## This API is part of the challenge described in the attachment
- 
+This API is part of the challenge described in the attachment.
 
-> Status: Done
+> **Status:** 🌐 Done
 
-####code in portuguese and english
-
+_Note: Code is in Portuguese and English._
